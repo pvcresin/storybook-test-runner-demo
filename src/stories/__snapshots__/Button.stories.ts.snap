@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Example/Button Play play-test 1`] = `
+<button type="button"
+        class="storybook-button storybook-button--medium storybook-button--secondary"
+>
+  Button
+</button>
+`;
+
+exports[`Example/Button Primary smoke-test 1`] = `
+<button type="button"
+        class="storybook-button storybook-button--medium storybook-button--primary"
+>
+  Button
+</button>
+`;
